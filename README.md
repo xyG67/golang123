@@ -1,6 +1,8 @@
 Golang123   
 =
 
+fork自Golang123项目
+
 golang123 是一个开源的社区系统，界面优雅，功能丰富，小巧迅速。
 已在[Golang中文社区](https://www.golang123.com) 得到应用，你完全可以用它来搭建自己的社区。       
 
